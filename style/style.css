@@ -1,0 +1,114 @@
+/*Images*/
+
+#column_1_img {
+
+    width: 405px;
+    margin-bottom: 50px;
+    height:300px;
+
+}
+
+#column_2_img {
+
+    width: 405px;
+    margin-bottom: 50px;
+    height:300px;
+}
+
+#column_3_img {
+
+    width: 300px;
+    margin-left: 200px;
+
+}
+
+#column_4_img {
+
+    width: 300px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    
+
+}
+
+#column_5_img {
+
+    width: 350px;
+    height:300px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    
+}
+
+#column_6_img {
+
+    width: 350px;
+    height:300px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+
+
+
+#PasProg {
+    width: 300px;
+}
+
+/*Backgrounds*/
+
+[data-testid="stAppViewContainer"] {
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/020/179/209/large/anastasiya-osichkina-leblancrgb-color-fin2.jpg?1566730414");
+
+}
+
+[data-testid="stHeader"] {
+    background-image: url("https://i.redd.it/fjkr8z1rp7p31.png");
+}
+
+[data-testid="stSidebarContent"]{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f0d5a196-c8d4-4e37-8638-2d4ef2d88f80/denfanw-d0264876-ead9-4a83-9d88-c3ee5b9ce110.jpg/v1/fit/w_828,h_1792,q_70,strp/persona_5_home_screen_wallpaper__by_multicolouredcrayon_denfanw-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQzNiIsInBhdGgiOiJcL2ZcL2YwZDVhMTk2LWM4ZDQtNGUzNy04NjM4LTJkNGVmMmQ4OGY4MFwvZGVuZmFudy1kMDI2NDg3Ni1lYWQ5LTRhODMtOWQ4OC1jM2VlNWI5Y2UxMTAuanBnIiwid2lkdGgiOiI8PTExMjUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.4rF1NSe1GPNCwLwE82Joe1VX7VKJQUtlXnhOJLU5Xsw");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;    
+}
+
+
+/*text*/
+
+.BOLD {
+
+    font-size: 50px;
+    color: white;
+    
+}
+
+[stSidebarNavLink] {
+    color: white;
+}
+
+
+.Introduction {
+    color: white;
+    font-family: OptimaNova;
+    
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: OptimaNova;
+    src: url(OptimaNovaLTProBold.otf);
+}
+
+[data-testid="stSidebarNavLink"] {
+    background-color: white;
+}
+
+#MyProj {
+    font-size: 25px; 
+    font-weight: bold;
+}
+
